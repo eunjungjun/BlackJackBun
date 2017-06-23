@@ -1,0 +1,12 @@
+P:\BlackJackFinal\BlackJackFinal\bin\Debug\BlackJackFinal.exe.config
+P:\BlackJackFinal\BlackJackFinal\obj\Debug\BlackJackFinal.csprojResolveAssemblyReference.cache
+P:\BlackJackFinal\BlackJackFinal\obj\Debug\BlackJackFinal.BlackJack.resources
+P:\BlackJackFinal\BlackJackFinal\obj\Debug\BlackJackFinal.Properties.Resources.resources
+P:\BlackJackFinal\BlackJackFinal\obj\Debug\BlackJackFinal.csproj.GenerateResource.Cache
+P:\BlackJackFinal\BlackJackFinal\bin\Debug\BlackJackFinal.exe
+P:\BlackJackFinal\BlackJackFinal\bin\Debug\BlackJackFinal.pdb
+P:\BlackJackFinal\BlackJackFinal\obj\Debug\BlackJackFinal.exe
+P:\BlackJackFinal\BlackJackFinal\obj\Debug\BlackJackFinal.pdb
+N:\Private\Fall2016_CDT_VideoGame\Jun\BlackJackFinal\BlackJackFinal\bin\Debug\BlackJackFinal.exe.config
+N:\Private\Fall2016_CDT_VideoGame\Jun\BlackJackFinal\BlackJackFinal\obj\Debug\BlackJackFinal.exe
+N:\Private\Fall2016_CDT_VideoGame\Jun\BlackJackFinal\BlackJackFinal\obj\Debug\BlackJackFinal.pdb
